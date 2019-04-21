@@ -72,5 +72,6 @@
 	</dependencyManagement>
 	<modules>
 		<module>../security-core</module>
+		<module>../commons-core</module>
 	</modules>
 </project>
