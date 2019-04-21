@@ -1,0 +1,12 @@
+server:
+  port: 80
+cheng:
+  security:
+    in-memory:
+      users:
+      - username: "xiaohuihui"
+        password: "000000"
+        role: "ROLE_USER"
+      - username: "jack.lin"
+        password: "000000"
+        role: "ROLE_ADMIN"
